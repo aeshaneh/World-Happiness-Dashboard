@@ -17,8 +17,8 @@ This project analyzes the **World Happiness Dataset** from [Kaggle](https://www.
 ![Dashboard Screenshot](Screenshot%20of%20World%20happiness%20dashboard.png)
 
 ## 🚀 Tools & Technologies
-- **Data Cleaning & Transformation**: Excel / Power Query
-- **Visualization Prototype**: Figma
+- **Data Cleaning & Transformation**: Power Query
+- **Visualization Prototype**: Figma,Power BI
 - **Dataset Source**: Kaggle (World Happiness Report)
 
 ## 📈 Insights
