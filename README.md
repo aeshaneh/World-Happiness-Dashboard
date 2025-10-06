@@ -14,7 +14,7 @@ This project analyzes the **World Happiness Dataset** from [Kaggle](https://www.
 - **Regional Insights**: Region-wise Happiness, Life Expectancy, and Social Support.
 - **Country View**: Average GDP distribution.
 
-![Dashboard Screenshot](
+!
 <img width="1172" height="658" alt="Screenshot of World Happiness Dashboard (2)" src="https://github.com/user-attachments/assets/4ee5bcba-3c6a-47cc-acef-756c90035ee7" />
 
 
